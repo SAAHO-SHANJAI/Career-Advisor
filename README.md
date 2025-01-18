@@ -45,6 +45,10 @@ CareerSage delivers accessible, personalized, and data-driven career guidance, h
    ```
 4. Run the application: `streamlit run app.py`
 
+## Live Application
+
+https://career-advisor-f8a3gkjmcdrtkmqmdcuidx.streamlit.app
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
